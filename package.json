@@ -1,0 +1,27 @@
+{
+  "name": "get-how-long-ago",
+  "version": "1.0.6",
+  "description": "give it date in milliseconds and get how long ago it was, both in object form and human friendly string.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YahyaHosainy/get-how-long-ago.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "miliseconds",
+    "how",
+    "long",
+    "ago"
+  ],
+  "author": "Yahya Hosainy <yahyayakta@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YahyaHosainy/get-how-long-ago/issues"
+  },
+  "homepage": "https://github.com/YahyaHosainy/get-how-long-ago#readme"
+}
