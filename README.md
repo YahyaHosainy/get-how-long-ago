@@ -33,6 +33,14 @@ console.log(datetime.timeAgo('1612803059959'));   // or type of string
 console.log(datetime.timeAgo({})); // return null
 ```
 
+### Usage with typescript
+```.ts
+import * as dateTime from "get-how-long-ago";
+// or
+import { timeAgo } from "get-how-long-ago";
+
+```
+
 ## Other functions
 ```.js
 const datetime = require('get-how-long-ago');
